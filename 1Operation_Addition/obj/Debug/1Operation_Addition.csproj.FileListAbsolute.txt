@@ -1,0 +1,8 @@
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\bin\Debug\1Operation_Addition.exe.config
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\bin\Debug\1Operation_Addition.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\bin\Debug\1Operation_Addition.pdb
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\obj\Debug\1Operation_Addition.csproj.AssemblyReference.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\obj\Debug\1Operation_Addition.csproj.SuggestedBindingRedirects.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\obj\Debug\1Operation_Addition.csproj.CoreCompileInputs.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\obj\Debug\1Operation_Addition.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\1Operation_Addition\1Operation_Addition\obj\Debug\1Operation_Addition.pdb
